@@ -22,7 +22,7 @@ const IntegrationsList = ({ connections }: Props) => {
                 <div className="w-10 h-10 relative">
                   <Image
                     sizes="100vw"
-                    src={`https://ucarecdn.com/${item.logo}/`}
+                    src={`https://ucarecdn.com/b411ca19-47ee-4860-8aa4-5cb1d1e335ac/images.png`}
                     alt="Logo"
                     fill
                   />
